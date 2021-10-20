@@ -1,5 +1,5 @@
 """Binary classifier using PyTorch.
-
+Erika Fox
 Patrick Wang, 2021
 """
 from abc import ABC
